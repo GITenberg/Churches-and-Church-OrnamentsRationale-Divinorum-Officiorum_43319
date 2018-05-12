@@ -1,0 +1,44 @@
+_repo: Churches-and-Church-OrnamentsRationale-Divinorum-Officiorum_43319
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Neale, J. M. (John Mason)
+    alias: Neale, John Mason
+    birthdate: 1818
+    deathdate: 1866
+    gutenberg_agent_id: '42130'
+    url: http://www.gutenberg.org/2009/agents/42130
+  - agent_name: Webb, Benjamin
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '42131'
+    url: http://www.gutenberg.org/2009/agents/42131
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Durand, Guillaume
+    aliases:
+    - Durandus
+    - Durant, Guillaume
+    - Durand, William
+    deathdate: 1296
+    gutenberg_agent_id: '42129'
+    url: http://www.gutenberg.org/2009/agents/42129
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture'
+- !lcc 'BV'
+- !lcsh 'Christian art and symbolism'
+title: "The Symbolism of Churches and Church Ornaments\r\nA Translation of the First\
+  \ Book of the Rationale Divinorum Officiorum"
+url: http://www.gutenberg.org/ebooks/43319
